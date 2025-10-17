@@ -1,0 +1,20 @@
+{
+  "order": {
+    "id": 102,
+    "date_add": "2025-10-10 01:00:00",
+    "total_paid": 49.99,
+    "currency": { "iso_code": "EUR" },
+    "customer": {
+      "id": 502,
+      "firstname": "Ana",
+      "lastname": "Gómez"
+    },
+    "products": [
+      {
+        "id": 124,
+        "quantity": 1,
+        "price": 49.99
+      }
+    ]
+  }
+}

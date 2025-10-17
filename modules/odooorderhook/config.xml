@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>odooorderhook</name>
+  <displayName>Odoo Order Hook</displayName>
+  <version>1.0.0</version>
+  <author>Francis Rosales</author>
+  <description>Envía pedidos validados a Odoo vía webhook XML.</description>
+  <tab>administration</tab>
+  <is_configurable>true</is_configurable>
+  <need_instance>0</need_instance>
+</module>
